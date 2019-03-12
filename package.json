@@ -1,0 +1,14 @@
+{
+  "name": "hockey-analysis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hockey-analysis.js",
+  "scripts": {},
+  "author": "Forrest Talburt",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^5.10.0",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.5"
+  }
+}
